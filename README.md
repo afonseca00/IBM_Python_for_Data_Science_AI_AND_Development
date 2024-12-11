@@ -1,0 +1,2 @@
+# IBM_Python_for_Data_Science_AI_AND_Development
+ The IBM Python for Data Science, AI & Development course is a beginner-friendly program designed to introduce students and professionals to Python programming in the context of data science, artificial intelligence (AI), and software development. Offered by IBM, this course provides a solid foundation in Python programming while emphasizing its applications in data analysis, AI model development, and software engineering.
